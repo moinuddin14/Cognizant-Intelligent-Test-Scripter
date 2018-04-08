@@ -22,7 +22,7 @@ To provide clarity on what is expected of our members, Cognizant Intelligent Tes
 
 If you have any queries on Cognizant Intelligent Test Scripter, please post your questions on [Cognizant ITS Google Group](https://groups.google.com/forum/#!forum/cognizant-intelligent-test-scripter).
 
-To ask specific questions on project development, to discuss future improvements or for any other technical detail, please join the [Cognizant ITS chat on Gitter](https://gitter.im/Cognizant-Intelligent-Test-Scripter).
+To ask specific questions on project development, to discuss future improvements or for any other technical detail, please join the [Cognizant ITS chat on Gitter](https://gitter.im/Cognizant-Intelligent-Test-Scripter
 
 ## License
 
